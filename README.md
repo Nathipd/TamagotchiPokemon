@@ -9,8 +9,7 @@ Disponível em: https://7daysofcode.io/matricula/csharp
 
 Durante os 7 Days de C#, vamos voltar para os anos 90 e 2000 para que você construa uma versão moderna do Tamagotchi, o “bichinho virtual”. Para isso. você vai utilizar os conceitos mais importantes do C# e, para deixar ainda mais legal, vai consumir a API do Pokémon para dar vida aos seus bichinhos. Explicando melhor, você vai usar a API do Pokémon para buscar os pokémons que serão seus mascotes e implementar interações com eles através de comunicação com a API, utilizando o JSON obtido.
 
-## QUAIS SERÃO
-OS DESAFIOS?
+## QUAIS SERÃO OS DESAFIOS?
 
 ### DIA 1
 No primeiro dia, você irá iniciar uma aplicação back-end em C#, consumindo a API do Pokémon!. Você terá que desenvolver uma funcionalidade onde o jogador poderá acessar uma lista de opções de espécies de pokémons e visualizar suas características para facilitar sua escolha antes da adoção.

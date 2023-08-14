@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUsW8b+RziCZCOZ58+9YX47ogAWy7T0os9A25YuocXaBctXUSpiIXGjD5wwPvTbBoKKeZXU8Y7exxxFxHThBkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\source\\repos\\Nathipd\\TamagotchiPokemon\\TamagochiPokemon\\TamagochiPokemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\natha\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
